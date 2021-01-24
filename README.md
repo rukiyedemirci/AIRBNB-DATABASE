@@ -11,3 +11,7 @@ Excell de veri tabanın anlamlandırılması veri tabanı normalizasyonu için g
 
 
 ![roms](https://user-images.githubusercontent.com/71218414/105640471-538cc200-5e8f-11eb-82ef-512f0d6f72d3.PNG)
+
+
+![roms](https://user-images.githubusercontent.com/71218414/105640471-538cc200-5e8f-11eb-82ef-512f0d6f72d3.PNG)
+
