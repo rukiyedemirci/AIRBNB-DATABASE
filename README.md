@@ -5,3 +5,5 @@ Roms Booking,Airbnb sitesinden referans alınarak yapılmış bir oda,ev kiralam
 
 
 ![ROMS DB](https://user-images.githubusercontent.com/71218414/105639996-7b2e5b00-5e8c-11eb-8348-7904317032de.png)
+
+Excell de veri tabanın anlamlandırılması veri tabanı normalizasyonu için görselleştirilmiştir.
